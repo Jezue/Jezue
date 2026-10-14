@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adam 👋</h1>
 
 <p align="center">
-  <strong>IT Project Manager · UI/UX & graphic designer · IoT tinkerer</strong><br>
+  <strong>Python enthusiast · IT Project Manager · UI/UX designer · IoT tinkerer</strong><br>
   I run software projects by day and build things that talk to the physical world after hours.
 </p>
 
@@ -9,11 +9,11 @@
 
 ### 🧭 About me
 
-- 📋 **IT Project Manager at Halfbit** — I lead 4–5 projects at a time with a 7-person team (Agile, time & material): backlog, client process analysis, pre-sales.
-- 🎨 **Designer on the same team** — UI/UX and graphic design, so I can go from a client's idea to a clickable mockup.
+- 📋 **IT Project Manager** — I lead 4–5 projects at a time with a 7-person team (Agile, time & material). I like to understand the tech, not just the timeline.
+- 🎨 **Also the team's designer** — UI/UX and graphic design, so I can go from a client's idea to a clickable mockup.
 - 🎓 **BEng in Computer Science** (cloud solutions), WSB Merito Wrocław · now doing a **master's in CS** at WSB Merito Poznań.
 - 📜 Currently working towards **PRINCE2**.
-- 🌱 Growing my hands-on dev skills — Python, TypeScript, IoT and the cloud.
+- 🐍 **Python enthusiast** — most of my side projects start as a small Python script that grew up.
 
 ### 🛠️ Featured projects
 
