@@ -1,38 +1,72 @@
-<h1 align="center">Hi, I'm Adam 👋</h1>
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Adam Gajewski — projects, code, design and hardware" width="100%" />
+</p>
 
 <p align="center">
-  <strong>Python enthusiast · IT Project Manager · UI/UX designer · IoT tinkerer</strong><br>
-  I run software projects by day and build things that talk to the physical world after hours.
+  <a href="#about-me">About me</a> &nbsp;·&nbsp;
+  <a href="#selected-projects">Selected projects</a> &nbsp;·&nbsp;
+  <a href="#toolbox">Toolbox</a>
+</p>
+
+<br>
+
+## About me
+
+**Hey, I'm Adam 👋**
+
+I'm an **IT Project Manager** with a hands-on interest in technology and design. My work covers **software delivery, client communication, planning and coordination**, as well as **UI/UX and graphic design** — from initial concepts to interface mockups.
+
+Outside of work, I build things with **Python**, experiment with **ESP32** and home automation, and design practical parts for **3D printing**.
+
+<br>
+
+## Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jezue/FloodGate">🌊 FloodGate</a></h3>
+      <p>An autonomous flood-barrier prototype that detects rising water locally and gives users remote monitoring and control through a web dashboard.</p>
+      <p><code>ESP32</code> <code>FastAPI</code> <code>React</code> <code>MQTT</code></p>
+      <p><a href="https://github.com/Jezue/FloodGate">Explore project ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jezue/fitatu_library">🥗 fitatu-api</a></h3>
+      <p>An unofficial Python client for Fitatu that supports food-diary operations and provides structured tools for AI agents to interact with the API.</p>
+      <p><code>Python</code> <code>REST API</code> <code>AI tools</code></p>
+      <p><a href="https://github.com/Jezue/fitatu_library">Explore project ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Toolbox
+
+**Development**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-334155?style=flat-square" />
+</p>
+
+**Hardware & automation**
+
+<p>
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img alt="Home Assistant" src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white" />
+  <img alt="3D printing" src="https://img.shields.io/badge/3D_Printing-475569?style=flat-square" />
+</p>
+
+**Design & project management**
+
+<p>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
 ---
 
-### 🧭 About me
-
-- 📋 **IT Project Manager** — I lead 4–5 projects at a time with a 7-person team (Agile, time & material). I like to understand the tech, not just the timeline.
-- 🎨 **Also the team's designer** — UI/UX and graphic design, so I can go from a client's idea to a clickable mockup.
-- 🎓 **BEng in Computer Science** (cloud solutions), WSB Merito Wrocław · now doing a **master's in CS** at WSB Merito Poznań.
-- 📜 Currently working towards **PRINCE2**.
-- 🐍 **Python enthusiast** — most of my side projects start as a small Python script that grew up.
-
-### 🛠️ Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**FloodGate**](https://github.com/Jezue/FloodGate) 🌊 | Autonomous flood barrier: detects water locally (no cloud needed) and lets you monitor and override it from a web dashboard or phone. | TypeScript · IoT · Web |
-| [**fitatu-api**](https://github.com/Jezue/fitatu_library) 🥗 | Unofficial Python client for the Fitatu calorie-counter API, built so AI agents can read and write your food diary as tools. | Python · REST · LLM tools |
-| [**svcdesk**](https://github.com/Jezue/itsm-svcdesk) 🎫 | ITSM service desk built lab by lab during my master's course. | Python · Docker |
-
-### 🧰 Toolbox
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home%20Assistant-18BCF2?style=flat&logo=homeassistant&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
-### 🔭 Right now
-
-Automating more of my home with ESP32 and Home Assistant, one 3D-printed mount at a time.
+<sub>🎓 BEng in Computer Science (cloud solutions) · MSc in Computer Science in progress, WSB Merito Poznań.</sub>
