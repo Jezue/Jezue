@@ -25,13 +25,13 @@ Outside of work, I build things with **Python**, experiment with **ESP32** and h
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jezue/FloodGate">🌊 FloodGate</a></h3>
+      <h3><a href="https://github.com/Jezue/FloodGate"><img src="assets/floodgate.png" width="32" height="32" alt="" align="absmiddle" /> FloodGate</a></h3>
       <p>An autonomous flood-barrier prototype that detects rising water locally and gives users remote monitoring and control through a web dashboard.</p>
       <p><code>ESP32</code> <code>FastAPI</code> <code>React</code> <code>MQTT</code></p>
       <p><a href="https://github.com/Jezue/FloodGate">Explore project ↗</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Jezue/fitatu_library">🥗 fitatu-api</a></h3>
+      <h3><a href="https://github.com/Jezue/fitatu_library"><img src="assets/fitatu-api.png" width="32" height="32" alt="" align="absmiddle" /> fitatu-api</a></h3>
       <p>An unofficial Python client for Fitatu that supports food-diary operations and provides structured tools for AI agents to interact with the API.</p>
       <p><code>Python</code> <code>REST API</code> <code>AI tools</code></p>
       <p><a href="https://github.com/Jezue/fitatu_library">Explore project ↗</a></p>
