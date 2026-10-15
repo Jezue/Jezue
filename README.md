@@ -35,7 +35,7 @@ Outside of work, I build things with **Python**, experiment with **ESP32** and h
       <a href="https://github.com/Jezue/FloodGate"><img src="assets/floodgate.png" width="96" height="96" alt="FloodGate logo" /></a>
       <h3><a href="https://github.com/Jezue/FloodGate">FloodGate</a></h3>
       <p>An autonomous flood-barrier prototype that detects rising water locally and gives users remote monitoring and control through a web dashboard.</p>
-      <p><code>ESP32</code> <code>FastAPI</code> <code>React</code> <code>MQTT</code></p>
+      <p><code>Python</code> <code>ESP32</code> <code>FastAPI</code> <code>MQTT</code></p>
       <p><a href="https://github.com/Jezue/FloodGate">Explore project ↗</a></p>
     </td>
   </tr>
